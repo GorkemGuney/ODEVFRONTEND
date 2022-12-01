@@ -1,0 +1,19 @@
+.h1{
+    color: brown;
+    font-style: italic;
+    font-size: 36px;
+    
+}
+body{
+    background-color: cornsilk;
+}
+
+.margin-top{
+    margin-top:100px;
+}
+
+.h2{
+    color: tomato;
+    font-size: 24px;
+    font-style: oblique;
+}
